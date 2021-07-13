@@ -1,5 +1,6 @@
 process.on('beforeExit',()=>{
     console.log('El proceso va a terminar');
+    
 });
 
 process.on('exit',()=>{

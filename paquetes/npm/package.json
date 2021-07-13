@@ -1,5 +1,5 @@
 {
-  "name": "fundamentosnodejs",
+  "name": "npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "David Belisle <david1alberto@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^10.1.0"
+    "is-odd": "^3.0.1"
   }
 }

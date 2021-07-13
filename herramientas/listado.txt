@@ -1,0 +1,5 @@
+npm i puppeteer
+permite tomar cosas de paginas web
+
+
+npm i gulp gulp-server-livereload 

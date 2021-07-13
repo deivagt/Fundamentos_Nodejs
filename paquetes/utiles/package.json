@@ -1,14 +1,17 @@
 {
-  "name": "fundamentosnodejs",
+  "name": "utiles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "David Belisle <david1alberto@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^10.1.0"
+    "bcrypt": "^5.0.1",
+    "moment": "^2.29.1",
+    "sharp": "^0.28.3"
   }
 }
