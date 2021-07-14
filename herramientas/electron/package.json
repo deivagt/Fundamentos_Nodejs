@@ -1,19 +1,16 @@
 {
-  "name": "automatizar",
+  "name": "electron",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gulp build",
-    "serve": "gulp serve",
-    "start":"gulp"
+    "start":"electron ."
   },
   "keywords": [],
   "author": "David Belisle <david1alberto@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-server-livereload": "^1.9.2"
+    "electron": "^13.1.6"
   }
 }
